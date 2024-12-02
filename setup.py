@@ -30,8 +30,8 @@ extras_requires = {
 
 
 setup(
-    author="Vulcan Technologies LLC",
-    author_email="elynnw@vulcan.com",
+    author="NOAA - Geophysical Fluid Dynamics Laboratory",
+    author_email="oliver.elbert@noaa.gov",
     python_requires=">=3.11.7",
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
